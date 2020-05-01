@@ -1,0 +1,28 @@
+body, footer {
+    font-family: "Architects Daughter", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+h1 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+a {
+    width: 10%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+    border: 2px aqua solid;
+    font-family: "Architects Daughter", cursive;
+    font-size: 1.3rem;
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    padding: 15px;
+
+}
